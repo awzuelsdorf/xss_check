@@ -1,0 +1,4 @@
+<a href="https://www.google.com">go to google</a>
+<textarea><a href="https://www.google.com">google</a></textarea><a href="https://www.google.com">google</a>
+<textarea><meta http-equiv="refresh" content="0; url=http://www.google.com/" /></textarea>
+&#60;a href="https://www.google.com"&#62;google&#60;/a&#62;
